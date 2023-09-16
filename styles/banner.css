@@ -1,0 +1,11 @@
+.banner{
+    background-image: url("../assets/bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.banner-image {
+    max-width: 100%; /* Establece el ancho máximo al 100% del contenedor */
+    height: 100%; /* Mantendrá la relación de aspecto original */
+}
