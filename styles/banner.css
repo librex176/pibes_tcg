@@ -7,9 +7,9 @@
 
 .logo{
     max-width: 100%; 
-    height: 100%;
+    height: 70%;
 }
 .banner-image {
     max-width: 100%; /* Establece el ancho máximo al 100% del contenedor */
-    height: 100%; /* Mantendrá la relación de aspecto original */
+    max-height: 70%; /* Mantendrá la relación de aspecto original */
 }
