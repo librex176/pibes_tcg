@@ -1,0 +1,6 @@
+/* En tu archivo CSS o en línea en el HTML */
+footer {
+    margin-top: 0; /* Elimina cualquier margen superior */
+    padding-top: 20px; /* Agrega un relleno superior para separar el contenido del pie de página de la parte superior */
+    padding-bottom: 20px; /* Agrega un relleno inferior para separar el contenido del pie de página de la parte inferior */
+}
